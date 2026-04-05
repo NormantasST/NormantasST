@@ -1,5 +1,6 @@
 # About me
 
+- **Location:** Lithuania, Kaunas (GMT +2)
 - **Email:** normantas.stankevicius@gmail.com
 - **Education:** Bachelors of Program Systems (Comp. Sci. Alternative) From University of Kaunas *issued 2025.*
 - **Working Profesionally** since 2022.
