@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 - **Email:** normantas.stankevicius@gmail.com
 - **Education:** Bachelors of Program Systems *issued by University of Kaunas 2025*
