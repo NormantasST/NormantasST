@@ -16,5 +16,5 @@
 |------ | ----------- | ---------- | :---: |
 |Home Server Config Backup ([Source](https://github.com/NormantasST/Home-Server))| Backup of my configs for Home Server.|Docker|2026-04|
 |InfoShow ScreenSaver ([Source](https://github.com/NormantasST/InfoShow-Screen-Saver))| Quick Screensaver I coded for an event by InfoShow. Has a green screen and is consumbed by OBS. It has a flaw that it requires a green screen usage. Also has a list of tournaments.|Unity, C#, OBS|2026-04|
-|You're Cute ([Source](https://github.com/NormantasST/youre-cute), [Page](https://normantasst.github.io/youre-cute/))| Cute project I made quikcly for my girlfriend. |HTML, CSS, Static Pages|2024-04|
+|You're Cute ([Source](https://github.com/NormantasST/youre-cute), [Page](https://normantasst.github.io/youre-cute/))| Cute project I made quikcly for my girlfriend. |HTML, CSS, Static Pages|2022-12|
 |Video-Filters ([Source](https://github.com/NormantasST/Video-Filters))| Tool to apply vaporaware / neonware red filter. Created this while in highschool as a fun side project |.NET, FFMPEG|2021-08|
