@@ -14,4 +14,5 @@
 # Reserch, Throwaway & For Fun Projects
 | Title | Description | Tech Stack | Development Date |
 |------ | ----------- | ---------- | :---: |
+|You're Cute ([Source](https://github.com/NormantasST/youre-cute), [Github Static Page](https://normantasst.github.io/youre-cute/))| Cute project I made quikcly for my girlfriend. |HTML, CSS, Static Pages|2024-04|
 |Video-Filters ([Source](https://github.com/NormantasST/Video-Filters))| Tool to apply vaporaware / neonware red filter. Created this while in highschool as a fun side project |.NET, FFMPEG|2021-08|
