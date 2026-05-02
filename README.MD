@@ -14,4 +14,4 @@
 # Reserch, Throwaway & For Fun Projects
 | Title | Description | Tech Stack | Development Date |
 |------ | ----------- | ---------- | :---: |
-|Video-Filters ([Source](https://github.com/NormantasST/Video-Filters)| Tool to apply vaporaware / neonware red filter. Created this while in highschool as a fun side project |.NET, FFMPEG|2021-08|
+|Video-Filters ([Source](https://github.com/NormantasST/Video-Filters))| Tool to apply vaporaware / neonware red filter. Created this while in highschool as a fun side project |.NET, FFMPEG|2021-08|
