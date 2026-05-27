@@ -5,6 +5,7 @@
 - **Location:** Lithuania, Kaunas (GMT +2)
 - **Working Profesionally** since 2022.
 - **Primary Tech Stack:** C#, .NET, EF Core, PostgreSQL, Azure.
+  - *I Usually try to avoid these technologies on personal projects*
 
 # Actual Projects
 | Title | Description | Tech Stack | Development Date |
