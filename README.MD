@@ -11,6 +11,8 @@
 | Title | Description | Tech Stack | Development Date |
 |------ | ----------- | ---------- | :---: |
 |Sonar Controller ([Source](https://github.com/NormantasST/Sonar-Controller-Plugin-for-Stream-Deck), [Release](https://marketplace.elgato.com/product/steelseriessonar-by-novil-f42b3ce9-15be-4f64-bd63-b8aa7fc152c3))| Plugin for Stream Deck heavily customizable macro board that allows to control *SteelSeries Sonar* audio application. **400+ Downloads**.|TypeScript, Stream Deck SDK|2026-03|
+|[AchievedIt Overview](https://github.com/NormantasST/AchievedIt-Overview)| Steam Achievement Tracking Tool that displayed Twitch streamers' achievement to viewer.|.NET, PostgreSQL, TypeScript, React, NextJs, Docker, xUnit, Playwright|2025|
+
 
 # Reserch, Throwaway & For Fun Projects
 | Title | Description | Tech Stack | Development Date |
